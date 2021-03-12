@@ -10,5 +10,3 @@ To test functions start debug
         functions call rng --data='<JSON object>'
 To stop functions debug stop
 
-Test call: 
-functions call emailPr --data='{"to":["rogerjaffe@gmail.com"],"subject":"Test subject","teacherEmail":"rogerjaffe@mrjaffesclass.com","teacherName":"Teacher name","prText":"Progress report for Roger","prHtml":"<html><head><title>Progress report for RJ</title></head><body>Roger is getting a A</body></html>"}'
